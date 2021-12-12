@@ -12,7 +12,7 @@
   When you open the note taker application, you are presented with a landing page and a link to a notes page, click on the buttin to the notes page.  Enter a new title and notes text.  Click on the save icon in the upper right hand corner.  Once saved the note will appear in the left hand side list of notes.  When you want to add a new note click the plus button on the right hand side.
   
   ## Credits
-  My tutor Corey T. who helped with the setup and understanding of hte application. 
+  My tutor Corey T. who helped with the setup and understanding of the express application. 
 ##
 ## License <br>https://opensource.org/licenses/MIT
   ## Contact/Questions
